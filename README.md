@@ -1,7 +1,7 @@
-Postcard transcription from the British Museum collection
-=========================================================
+Audio transcription from the British Museum Soundcloud archive
+==============================================================
 
-An application for transcription of postcards.
+An application for transcription of Soundcloud audio.
 
 This application has four files:
 
